@@ -1,3 +1,3 @@
-<a href="https://wolfblitz7.github.io/sparkfunflash">FPV-MDN Web Flasher (SPARKFUN PROTOTYPE)</a>
+<a href="https://wolfblitz7.github.io/FPV-MDN-Web-Flasher-Sparkfun/sparkfunflash">FPV-MDN Web Flasher (SPARKFUN PROTOTYPE)</a>
 
-https://wolfblitz7.github.io/sparkfunflash
+https://wolfblitz7.github.io/FPV-MDN-Web-Flasher-Sparkfun/sparkfunflash
