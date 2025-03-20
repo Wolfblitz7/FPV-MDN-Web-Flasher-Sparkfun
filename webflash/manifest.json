@@ -4,7 +4,7 @@
     "new_install_prompt_erase": true,
     "builds": [
       {
-        "chipFamily": "ESP32",
+        "chipFamily": "ESP32-c3",
         "parts": [
             { "path": "FPV_MDN_ESP32_SPARKFUN.ino.merged.bin", "offset": 0 }
         ]
